@@ -19,7 +19,7 @@ npm i
 npm start
 ```
 
-> Note: `You need a NASA Api key` for proper functionality.
+> Note: You need a [Nasa] Api key for proper functionality.
 
 
 
